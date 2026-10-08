@@ -567,7 +567,7 @@
         },
         {
             "name": "Dialer",
-            "order": 29,
+            "order": 30,
             "mainstream_apps": [
                 { "id": "google_dialer", "name": "Google Dialer" }
             ],
